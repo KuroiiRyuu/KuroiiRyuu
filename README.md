@@ -24,12 +24,9 @@
 <p align="left">
   <strong>Languages:</strong> JavaScript, Python, Java, C, SQL<br>
   <strong>Frontend:</strong> React, Angular, HTML5, CSS3<br>
-  <strong>Backend:</strong> Node.js, Express, MySQL, MariaDB<br>
+  <strong>Backend:</strong> Node.js, MySQL, MariaDB<br>
   <strong>Tools & Platforms:</strong> Git, Linux, Bash, Docker<br>
 </p>
 <h3 align="left">Projects & Contributions:</h3>
 <p align="left">
-  - **[Project 1 Name](#)**: A brief description of a significant project you worked on, emphasizing the technology stack and impact.
-  <br>
-  - **[Project 2 Name](#)**: Another project description highlighting your role and the challenges you overcame.
-</p>
+
