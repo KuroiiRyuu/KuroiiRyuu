@@ -6,8 +6,6 @@
 
   -  🌱 Learning Journey: Currently diving deep into React and Angular to master frontend development and enhance user experiences.
 
-  -  🔭 Current Projects: Building responsive and dynamic web applications that prioritize performance and accessibility.
-
   -  💬 Let's Talk: I'm always open to discussing new ideas, collaboration opportunities, and innovative technologies.
 
   - 📫 Contact Me: You can reach me via email at pedropm.lolo05@gmail.com.
