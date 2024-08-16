@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Perez Montero</h1>
+<h1 align="center">Hi 👋, I'm Pedro Perez</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 - 🌱 I’m currently learning **Frameworks : React and Angular**
